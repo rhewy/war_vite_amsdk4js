@@ -1,0 +1,19 @@
+{
+  "name": "vite_amsdk4js_starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "@arcgis/map-components": "^4.32.13",
+    "@arcgis/core": "4.32.9",
+    "@esri/calcite-components": "3.1.0"
+  }
+}

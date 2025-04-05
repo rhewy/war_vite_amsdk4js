@@ -1,0 +1,5 @@
+@import '@arcgis/core/assets/esri/themes/light/main.css';
+
+#main-map {
+  height: 70vh;
+}
