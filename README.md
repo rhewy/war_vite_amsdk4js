@@ -13,3 +13,6 @@ Not a fun experience 🥺
   - Pre configured vite work on a network drive
   - Pre configure the vite build to use a relative path
   - Pre configured to search for types in src
+
+# Shadow imports
+ESM-local with no CDN and using the map components requires imports that VSCode will mark as not being used. However, they are being used. Removing them with stop the components from appearing in the browser.
