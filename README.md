@@ -1,7 +1,8 @@
 # The WAR Vite + AMSDK4JS Starter
 This starter is for AMSDK4JS development using the EMS local pattern
 
-### WARNING do not mix the CDN and ESM
+### WARNING do not mix the CDN and ESM techniques
+Not a fun experience 🥺
 
 ## Features
   - Pre configured for HTML intellisense for map components
